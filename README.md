@@ -1,4 +1,8 @@
-### Hi there 👋
+### Stats: 🎇
+
+<img src="https://streak-stats.demolab.com/?user=Kari-C&theme=elegant" />
+<img src="https://my-github-stats-six.vercel.app/api?username=Kari-C&show_icons=true&theme=transparent" />
+<img src="https://my-github-stats-six.vercel.app/api/top-langs?username=Kari-C&theme=transparent" />
 
 <!--
 **Kari-C/Kari-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
