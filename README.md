@@ -1,4 +1,4 @@
-🚀 Software Engineer | Node.js 🟢 | JavaScript ✨ | React ⚛️ | TypeScript 🦕 | Langchain 🔗 | Supabase 🔥 | WordPress 🔵 | PHP 🐘 | HTML 🌐 | Sass 💄 | MySQL 🐬 
+🚀 Software Engineer | Node.js 🟢 | JavaScript ✨ | React ⚛️ | TypeScript 🦕 | Langchain 🔗 | AWS 🔥 | WordPress 🔵 | PHP 🐘 | HTML 🌐 | Sass 💄 | MySQL 🐬 
 
 Crafting innovative solutions and pushing the boundaries of what's possible with cutting-edge technologies. From the front-end to the back-end, let's build something amazing together!  Current focus: chat agents! 🤗.
 
