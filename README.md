@@ -4,7 +4,7 @@ Crafting innovative solutions and pushing the boundaries of what's possible with
 
 ### Stats: 🎇
 
-<img style="margin-left:auto;margin-right:auto;" src="https://streak-stats.demolab.com/?user=Kari-C&theme=elegant" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=Kari-C&theme=elegant" width="80%"/>
 <img src="https://my-github-stats-six.vercel.app/api/top-langs?username=Kari-C&theme=transparent" />
 
 <!--
