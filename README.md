@@ -1,6 +1,6 @@
 🚀 Software Engineer | Node.js 🟢 | JavaScript ✨ | React ⚛️ | TypeScript 🦕 | Python 🐍 | Langchain / LangGraph 🔗 | FinTech Agents 🤖 | PHP 🐘 | MySQL 🐬| AWS 🔥 
 
-Crafting innovative solutions and pushing the boundaries of what's possible with cutting-edge technologies. From the front-end to the back-end, let's build something amazing together!  Current focus: chat agents! 🤗.
+Crafting innovative solutions and pushing the boundaries of what's possible with cutting-edge technologies. From the front-end to the back-end, let's build something amazing together!  Current focus: FinTech LangGraph agents! 🤗.
 
 ### Stats: 🎇
 
